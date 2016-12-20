@@ -1,0 +1,36 @@
+########################################
+# Syntax coloring map for CollectdPacket
+########################################
+
+
+########################################
+# Datatypes (KEYWORD1)
+########################################
+
+CollectdPacket	KEYWORD1
+
+########################################
+# Methods and Functions (KEYWORD2)
+########################################
+
+addPlugin	KEYWORD2
+addPluginInstance	KEYWORD2
+addType	KEYWORD2
+addTypeInstance	KEYWORD2
+addInterval	KEYWORD2
+addTimestamp	KEYWORD2
+addTimestampHR	KEYWORD2
+addValue	KEYWORD2
+getPacketBuffer	KEYWORD2
+getPacketSize	KEYWORD2
+resetPacket	KEYWORD2
+
+########################################
+# Constants (LITERAL1)
+########################################
+
+VALUE_TYPE_COUNTER	LITERAL1
+VALUE_TYPE_GAUGE	LITERAL1
+VALUE_TYPE_DERIVE	LITERAL1
+VALUE_TYPE_ABSOLUTE	LITERAL1
+
