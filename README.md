@@ -13,8 +13,9 @@ It uses an include from Rob Tillaart for 64bit float representation.
 
 # Credits
 
- Collectd     : https://collectd.org/
- IEEE754tools : http://playground.arduino.cc//Main/IEEE754tools
+Collectd     : https://collectd.org/
+
+IEEE754tools : http://playground.arduino.cc//Main/IEEE754tools
 
 # Homepage
 
