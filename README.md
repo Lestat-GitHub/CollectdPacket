@@ -1,4 +1,5 @@
 # CollectdPacket
+
 CollectdPacket is an Arduino class that is capable of building an
 UDP packet suitable for a Collectd server.
 
@@ -10,10 +11,12 @@ the GNU Lesser General Public License.
 
 It uses an include from Rob Tillaart for 64bit float representation.
 
-Credits :
+# Credits
 
  Collectd     : https://collectd.org/
  IEEE754tools : http://playground.arduino.cc//Main/IEEE754tools
 
-Homepage : http://www.lestat.st/en/informatique/arduino/collectd_packet
+# Homepage
+
+http://www.lestat.st/en/informatique/arduino/collectd_packet
 
